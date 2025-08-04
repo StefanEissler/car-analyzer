@@ -1,0 +1,2 @@
+[console_scripts]
+car-analyzer = car_analyzer.cli:main
