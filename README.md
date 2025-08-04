@@ -330,23 +330,11 @@ git push origin feature/your-feature-name
 - Follow [PEP 8](https://pep8.org/) style guidelines
 - Add type hints where possible
 - Write docstrings for all public functions
-- Add unit tests for new features
 
-### Commit Message Format
-
-Use conventional commits:
-- `feat:` New features
-- `fix:` Bug fixes
-- `docs:` Documentation changes
-- `style:` Code style changes
-- `refactor:` Code refactoring
-- `test:` Test additions/changes
-- `chore:` Maintenance tasks
-
-## 📄 License
+<!-- ## 📄 License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+-->
 ## ⚖️ Legal Notice
 
 This tool is designed for personal use and research purposes. Users are responsible for:
@@ -358,17 +346,6 @@ This tool is designed for personal use and research purposes. Users are responsi
 
 The developers are not responsible for misuse of this tool or any legal consequences.
 
-## 🙏 Acknowledgments
-
-- Thanks to the Python community for excellent libraries
-- Inspired by automotive data analysis needs
-- Built with modern Python packaging standards
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/car-analyzer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/car-analyzer/discussions)
-- **Email**: your.email@example.com
 
 ## 🔗 Links
 
